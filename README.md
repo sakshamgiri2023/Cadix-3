@@ -76,8 +76,27 @@ Choose [5] Exit to close the application.
 Contributing
 Contributions to this project are welcome. If you have ideas for improving or extending the functionality, please feel free to submit a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+To run the code, follow these steps:
+
+1. Click the "Run" button, which will prompt you to enter your username and password.
+
+2. Use the following credentials:
+   - Username: admin
+   - Password: 12345
+
+3. After successfully logging in, the system will present you with a set of options. Proceed step by step.
+
+4. Start by selecting the "Destination" option. After viewing the destinations, the system will ask if you want to continue with another transaction; enter "Y" to continue.
+
+5. Next, choose the "Buy Tickets" option and input the requested values as prompted.
+
+6. Continue to the "Transaction" option by entering "Y" again. 
+
+7. Follow this step-by-step process for the "View" and "Exit" options.
+
+8. At the end of your interactions with the system, it will display a "Thank you!" message.
+
+
 
 
 
