@@ -1,22 +1,28 @@
-# Cadix-3
+## Cadix-3
+
 A Bus ticket management system has been made by the Cadix-3 Team:  
+
 1) Pranita
 2) Sejal
 3) Saksham
 4) Madhav
+   
  Thank You So much!!
-Bus Reservation and Ticketing System
-Table of Contents
-Description
-Features
-Getting Started
-Usage
-Contributing
-License
-Description
+ 
+# Bus Reservation and Ticketing System
+1.Table of Contents
+2.Description
+3.Features
+4.Getting Started
+5.Usage
+6.Contributing
+7.License
+
+# Description
+
 The "Bus Reservation and Ticketing System" is a simple console-based Java application designed to manage bus ticket reservations. It allows users to book bus tickets for various destinations, view transaction details, and make payments. This system can be used by bus operators to manage passenger reservations efficiently.
 
-Features
+# Features
 User authentication: The system requires users to log in with a username and password. The default credentials are "admin" for both username and password.
 Destination information: Users can view available destinations, including their names, fares, and the number of available seats.
 Ticket booking: Users can book tickets by specifying their name, choosing a destination, specifying the number of passengers, and indicating how many of them qualify for discounts (e.g., students, PWD, or senior citizens).
@@ -25,7 +31,8 @@ Viewing passenger details: Users can search for passengers by name and view thei
 Transaction history: The system keeps a record of passenger details, including their destination, fare, number of passengers, and payment status.
 User-friendly menu: The system uses a text-based menu to guide users through the ticketing process, making it easy to navigate.
 Getting Started
-To run the "Bus Reservation and Ticketing System" on your local machine, follow these steps:
+
+## To run the "Bus Reservation and Ticketing System" on your local machine, follow these steps:
 
 Prerequisites: You need to have the Java Development Kit (JDK) installed on your machine.
 
