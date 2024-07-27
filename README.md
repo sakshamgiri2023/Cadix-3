@@ -4,7 +4,7 @@ A Bus ticket management system has been made by the Cadix-3 Team:
 
 1) Pranita
 2) Sejal
-3) Saksham
+3) Saksham 
 4) Madhav
    
  Thank You So much!!
